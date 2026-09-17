@@ -1,0 +1,21 @@
+END USER LICENSE AGREEMENT AND COPYRIGHT NOTICE (EULA)
+Copyright © 2026 Arzune Development. All Rights Reserved.
+1. OWNERSHIP AND LICENSE GRANT
+This software, including all content and assets such as in-game code, graphic designs, 3D models, sound effects, music, user interface elements, visual effects, and the "NotFall" brand, is the exclusive property of Arzune Development. It is protected by national and international copyright laws and intellectual property treaties.
+Downloading or playing the game grants the user a personal, non-exclusive, non-transferable, and non-commercial license only; it does not transfer any ownership rights of the game.
+2. USE RESTRICTIONS AND PROHIBITIONS
+The user shall not perform any of the following actions without the prior express written consent of Arzune Development:
+Reverse engineer, decompile, disassemble, or derive source code and data structures from the game files.
+Copy, reproduce, redistribute, sell, or use game assets, code, graphics, or audio in other projects or third-party applications.
+Create, distribute, or publish unauthorized modifications (mods), cheats, or hacks for commercial or non-commercial purposes.
+Use the name "NotFall" or the "Arzune Development" brand/logo for promotional, advertising, or commercial materials without authorization.
+3. CONTENT CREATOR AND STREAMER PERMISSIONS
+Arzune Development grants content creators on platforms such as YouTube, Twitch, Kick, and similar video/streaming services permission to record gameplay videos, broadcast live streams of NotFall, and monetize such content through standard platform advertising models.
+However, proper attribution must be provided, explicitly specifying Arzune Development as the developer and NotFall as the game title.
+4. DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+The game "NotFall" is provided to users on an "AS IS" basis without warranties of any kind. Arzune Development does not guarantee that the game will operate uninterrupted or error-free on all hardware configurations.
+Arzune Development shall not be held liable for any potential data loss, technical disruptions, or issues arising from the use of the game.
+5. RESERVATION OF RIGHTS AND TERMINATION
+Arzune Development reserves the right to update these terms of use and license conditions at any time. In the event of a breach of these terms, the user's license to use the game shall terminate automatically.
+Copyright © 2026 Arzune Development. All Rights Reserved.
+NotFall™ is a trademark of Arzune Development.
